@@ -13,6 +13,9 @@ The goal of this project was to create a back end for an e-commerce site using E
 
 ## Usage
 
+[Click here for a video walkthrough](https://github.com/whimsically/ecommercebackend).
+
+Using an application such as Insomnia, you are able to interact with various endpoints for testing.
 
 ## Credits
 
